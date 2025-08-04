@@ -68,7 +68,7 @@ Spam emails pose a threat to user privacy and system security. Detecting spam ef
 **Kapil Dev Bhandari**  
 AI & ML Enthusiast | Computer Science @ Taylor's University & UWE
 
-📫 Connect on [LinkedIn](https://www.linkedin.com/in/your-username)  
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/kapildevbhandari)  
 📁 View Portfolio: *coming soon*
 
 ---
